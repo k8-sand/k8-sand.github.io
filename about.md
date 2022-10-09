@@ -1,15 +1,23 @@
 ---
 layout: page
-title: About
+title: About us
 permalink: /about/
+published: true
 ---
+### Our Mission
 
-Some information about you!
+We work to achieve health equity for vulnerable groups and individuals around the world through research, education and partnership. 
 
-### More Information
+The Research, Design, and Analysis Core (RDAC) under Duke's Global Health Institute (DGHI) specifically collaborates with DGHI faculty to design and conduct global health research studies. We also provide statistical and epidemiological support to MSc-GH thesis projects. 
 
-A place to include any other types of information that you'd like to include about yourself.
+### What we help with
 
-### Contact me
+-Study Design
+-Pre-Award Support
+-Data Collection
+-Data Analysis
+-General Consultations
 
-[email@domain.com](mailto:email@domain.com)
+### Learn more aboiut us at our formal website
+
+https://sites.globalhealth.duke.edu/rdac/
