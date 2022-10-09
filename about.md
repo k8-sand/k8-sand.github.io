@@ -21,6 +21,6 @@ The Research, Design, and Analysis Core (RDAC) under Duke's Global Health Instit
 -Data Analysis
 -General Consultations
 
-### Learn more aboiut us at our formal website
+### Learn more about us at our formal website:
+([CLICK HERE!](https://sites.globalhealth.duke.edu/rdac/))
 
-https://sites.globalhealth.duke.edu/rdac/
