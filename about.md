@@ -15,11 +15,15 @@ The Research, Design, and Analysis Core (RDAC) under Duke's Global Health Instit
 
 ### What we help with
 
--Study Design
--Pre-Award Support
--Data Collection
--Data Analysis
--General Consultations
+- Study Design
+
+- Pre-Award Support
+
+- Data Collection
+
+- Data Analysis
+
+- General Consultations
 
 ### Learn more about us at our formal website:
 ([CLICK HERE!](https://sites.globalhealth.duke.edu/rdac/))
