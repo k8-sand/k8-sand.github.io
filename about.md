@@ -4,6 +4,9 @@ title: About us
 permalink: /about/
 published: true
 ---
+
+![DGHI LOGO](/images/dghi logo.jpg "DGHI LOGO")
+
 ### Our Mission
 
 We work to achieve health equity for vulnerable groups and individuals around the world through research, education and partnership. 
